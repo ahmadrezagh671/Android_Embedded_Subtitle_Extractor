@@ -22,6 +22,7 @@ This app relies on the **FFmpeg** library for extracting embedded subtitles. FFm
 
 For more information, visit the official FFmpeg website:  
 [FFmpeg Official Site](https://ffmpeg.org)
+[FFmpeg Github](https://github.com/tanersener/mobile-ffmpeg)
 
 ## Screenshot  
 
