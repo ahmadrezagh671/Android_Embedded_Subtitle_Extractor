@@ -21,8 +21,8 @@ Extract Embedded Subtitles From Videos in Android Java with FFmpeg
 This app relies on the **FFmpeg** library for extracting embedded subtitles. FFmpeg is a comprehensive multimedia framework used for video, audio, and subtitle processing.
 
 For more information, visit the official FFmpeg website:  
-[FFmpeg Official Site](https://ffmpeg.org)
-[FFmpeg Github](https://github.com/tanersener/mobile-ffmpeg)
+- [FFmpeg Official Site](https://ffmpeg.org)
+- [FFmpeg Github](https://github.com/tanersener/mobile-ffmpeg)
 
 ## Screenshot  
 
