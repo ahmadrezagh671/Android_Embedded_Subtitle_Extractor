@@ -3,7 +3,7 @@ Extract Embedded Subtitles From Videos in Android Java with FFmpeg
 
 ## Overview
 
-**Android Embedded Subtitle Extractor** is an Android app developed in Java that allows users to extract embedded subtitles from videos. This app utilizes **FFmpeg** to handle video files and extract subtitle streams, saving them in the **SRT** format. It is designed to work on Android devices running Android 11 (API level 30) or higher.
+**Android Embedded Subtitle Extractor** is an Android app developed in Java that allows users to extract embedded subtitles from videos. This app utilizes **FFmpeg** to handle video files and extract subtitle streams, saving them in the **SRT** format. It is designed to work on Android devices running Android 13 (API level 33) or higher.
 
 ## Features
 
@@ -13,7 +13,7 @@ Extract Embedded Subtitles From Videos in Android Java with FFmpeg
 
 ## Minimum Requirements
 
-- **Android Version**: Android 11 (API level 30) or higher
+- **Android Version**: Android 13 (API level 33) or higher
 - **Java**: Written in Java with FFmpeg for subtitle extraction
 
 ## FFmpeg
