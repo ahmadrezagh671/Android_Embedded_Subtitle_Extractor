@@ -16,6 +16,10 @@ Extract Embedded Subtitles From Videos in Android Java with FFmpeg
 - **Android Version**: Android 13 (API level 33) or higher
 - **Java**: Written in Java with FFmpeg for subtitle extraction
 
+## Upcoming update
+
+Upcoming update will extend support to Android 10 (API level 29) or higher, making the app compatible with a broader range of devices.
+
 ## FFmpeg
 
 This app relies on the **FFmpeg** library for extracting embedded subtitles. FFmpeg is a comprehensive multimedia framework used for video, audio, and subtitle processing.
